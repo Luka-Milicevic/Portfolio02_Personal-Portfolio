@@ -174,7 +174,7 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url("../images/banner.jpg") ;
+	background: url("https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/2.Portfolio_Pic/Background/Background.jpg") ;
 	background-size: cover;
 }
 .banner-content{
@@ -321,7 +321,7 @@ h2.title span{
 
 .profile-bg {
     background-color: transparent;
-    background: url("../images/profile.jpg");
+    background: url("https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/2.Portfolio_Pic/Portfolio_Image.jpg");
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
