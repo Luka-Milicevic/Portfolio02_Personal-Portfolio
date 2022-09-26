@@ -1,4 +1,4 @@
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Personal Portfolio
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Personal Portfolio Demo -1
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Demo01_Personal-Portfolio.svg?cache=remove)
@@ -14,23 +14,25 @@
 
 About This project and the reference link in this repo are for anyone who is interested in working to enter developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
 
-**Project Link:** [Project-NAME](https://www.project-name.com/project-link)
+**Project Link:** [Personal Portfolio Demo -1](https://bdfdportfolio.tk/Demo01_Personal-Portfolio)
 
 ## Project Details
 
 The Project Page enlisted as follows:
 
-- [x] **P1-**
-- [x] **P2-**
-- [x] **P3-**
+- [x] **P1-Personal Portfolio Page**
+  - [x] **S1-About Me**
+  - [x] **S2-Skills**
+  - [x] **S3-Experiences**
+  - [x] **S4-Testmonials**
+  - [x] **S5-Portfolio**
+  - [x] **S6-Contact Me**
 
 ## Project Description:
 
-<img height="27" src="https://img.shields.io/badge/test 1 -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 2 -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Level 1 - Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+
 <br/>
-Description: Here you can add more detail information about this project and describe it in the documentation for more details.
 
 ## Tools Used In This Project
 
@@ -38,14 +40,14 @@ Description: Here you can add more detail information about this project and des
 
 **Libraries:** HTML, CSS, and JavaScript
 
-**Projects:** ABC Project Name
+**Projects:** Personal Portfolio Demo -1
 
 **Reference:**  
-Demo: <a href="Youtube Link">Demo Website Link</a>  
+Demo: <a href="https://bdfdportfolio.tk/Demo01_Personal-Portfolio/">Demo Website Link</a>  
 Reference:
 
-- <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
-- <a href="https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">Orginal Video Source Link</a>
+- <a href="https://github.com/BDFDPortfolio/Demo01_Personal-Portfolio">Orginal Data Source Link</a>
+
   <br>
 
 <div align="center">
