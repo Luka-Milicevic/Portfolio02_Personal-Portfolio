@@ -1,17 +1,10 @@
-
-Descritpion Template
-This is Project Porfolio
-
-Common Tag: Person Website, Portfolio Website, Personal Project Porfolio, Demo App, Demonstration App, Showcase Website
-
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Project-NAME{Personal Portfolio})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Personal Portfolio
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Demo01_Personal-Portfolio.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/Demo01_Personal-Portfolio?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFDPortfolio/Demo01_Personal-Portfolio?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
 <div align="center">
     <img src="static/images/demo.png" alt="Logo" width="400" height="300">
@@ -45,11 +38,11 @@ Description: Here you can add more detail information about this project and des
 
 **Libraries:** HTML, CSS, and JavaScript
 
-**Projects:** ABC Project Name  
+**Projects:** ABC Project Name
 
 **Reference:**  
 Demo: <a href="Youtube Link">Demo Website Link</a>  
-Reference:  
+Reference:
 
 - <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
 - <a href="https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">Orginal Video Source Link</a>
