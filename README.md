@@ -7,7 +7,7 @@
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
 <div align="center">
-    <img src="static/images/demo.png" alt="Logo" width="400" height="300">
+    <img src="static/images/Demo.png" alt="Logo" width="400" height="300">
 </div>
 
 ## About This Portfolio/Project Details
