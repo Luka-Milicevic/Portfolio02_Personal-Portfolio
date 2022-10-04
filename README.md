@@ -14,7 +14,7 @@
 
 About This project and the reference link in this repo are for anyone who is interested in working to enter developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
 
-**Project Link:** [Personal Portfolio Demo -1](https://bdfdportfolio.tk/Demo01_Personal-Portfolio)
+**Project Link:** [Personal Portfolio Demo -1](https://bdfdportfolio.tk/Portfolio02_Personal-Portfolio/)
 
 ## Project Details
 
@@ -43,7 +43,7 @@ The Project Page enlisted as follows:
 **Projects:** Personal Portfolio Demo -1
 
 **Reference:**  
-Demo: <a href="https://bdfdportfolio.tk/Demo01_Personal-Portfolio/">Demo Website Link</a>  
+Demo: <a href="https://bdfdportfolio.tk/Portfolio02_Personal-Portfolio/">Demo Website Link</a>  
 Reference:
 
 - <a href="https://github.com/BDFDPortfolio/Demo01_Personal-Portfolio">Orginal Data Source Link</a>
